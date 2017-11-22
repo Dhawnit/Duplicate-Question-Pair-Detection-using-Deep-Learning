@@ -1,6 +1,6 @@
-## Duplicate Question Pair Detection using Deep Learning
+# Duplicate Question Pair Detection using Deep Learning
 
-# To run
+### To run
 ```
 python nlpProj.py
 ```
